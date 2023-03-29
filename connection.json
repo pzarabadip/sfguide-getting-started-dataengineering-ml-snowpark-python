@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "SWVAZIY-WL62011",
+  "user"      : "EZPZ",
+  "password"  : "Salamii2023@london",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
 }

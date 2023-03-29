@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "sfguide-getting-started-dataengineering-ml-snowpark-python"
+version = "0.1.0"
+description = ""
+authors = ["Pezhman Zarabadi-Poor <pezhman.zarabadi-poor@wae.com>"]
+readme = "README.md"
+packages = [{include = "sfguide_getting_started_dataengineering_ml_snowpark_python"}]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.9.0"
+pandas = "^1.5.3"
+snowflake-snowpark-python = "^1.2.0"
+cachetools = "^5.3.0"
+scikit-learn = "^1.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
